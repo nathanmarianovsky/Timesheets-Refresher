@@ -1,4 +1,4 @@
-<h1 align="center">JS Implementation of Root-Finding Algorithms</h1>
+<h1 align="center">Timesheets Refresher</h1>
 
 
 # Table of Contents
